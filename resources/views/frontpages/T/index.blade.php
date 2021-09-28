@@ -177,7 +177,7 @@
                             <a href="/members" rel="v:url" property="v:title">Members</a>
                         </li>
                                                                                 <li typeof="v:Breadcrumb">
-                            <a href="../index106a.html?group=8" rel="v:url" property="v:title">Registered</a>
+                            <a href="/T-index106" rel="v:url" property="v:title">Registered</a>
                         </li>
                                                                                 <li class="active">T</li>
                                                 </ol>
@@ -312,9 +312,9 @@
                                     <div class="content__body">
                                         <ul class="nav nav-tabs m-b">
     <li><span>Sort by</span></li>
-    <li><a href="index713c.html?group=all">All</a></li>
+    <li><a href="T-index713">All</a></li>
 
-                        <li class="active"><a href="index106a.html?group=8" rel="nofollow">Registered</a></li>
+                        <li class="active"><a href="/T-index106" rel="nofollow">Registered</a></li>
             </ul>
 
 <div class="tab-content">
@@ -323,33 +323,33 @@
 
                         <div id="tab-usergroups" class="tab-pane active">
                                     <ul class="nav nav-pills nav-pills-sm m-b">
-                                                                                    <li><a href="../0-9/index.html">0-9</a></li>
-                                                                                    <li><a href="../A/index.html">A</a></li>
-                                                                                    <li><a href="../B/index.html">B</a></li>
-                                                                                    <li><a href="../C/index.html">C</a></li>
-                                                                                    <li><a href="../D/index.html">D</a></li>
-                                                                                    <li><a href="../E/index.html">E</a></li>
-                                                                                    <li><a href="../F/index.html">F</a></li>
-                                                                                    <li><a href="../G/index.html">G</a></li>
-                                                                                    <li><a href="../H/index.html">H</a></li>
-                                                                                    <li><a href="../I/index.html">I</a></li>
-                                                                                    <li><a href="../J/index.html">J</a></li>
-                                                                                    <li><a href="../K/index.html">K</a></li>
-                                                                                    <li><a href="../L/index.html">L</a></li>
-                                                                                    <li><a href="../M/index.html">M</a></li>
-                                                                                    <li><a href="../N/index.html">N</a></li>
-                                                                                    <li><a href="../O/index.html">O</a></li>
-                                                                                    <li><a href="../P/index.html">P</a></li>
-                                                                                    <li><a href="../Q/index.html">Q</a></li>
-                                                                                    <li><a href="../R/index.html">R</a></li>
-                                                                                    <li><a href="../S/index.html">S</a></li>
-                                                                                    <li class="active"><a href="index.html">T</a></li>
-                                                                                    <li><a href="../U/index.html">U</a></li>
-                                                                                    <li><a href="../V/index.html">V</a></li>
-                                                                                    <li><a href="../W/index.html">W</a></li>
-                                                                                    <li><a href="../X/index.html">X</a></li>
-                                                                                    <li><a href="../Y/index.html">Y</a></li>
-                                                                                    <li><a href="../Z/index.html">Z</a></li>
+                                    <li><a href="/0-9">0-9</a></li>
+                                        <li><a href="/A-index">A</a></li>
+                                        <li><a href="/B-index">B</a></li>
+                                        <li><a href="/C-index">C</a></li>
+                                        <li><a href="/D-index">D</a></li>
+                                        <li><a href="/E-index">E</a></li>
+                                        <li><a href="/F-index">F</a></li>
+                                        <li><a href="/G-index">G</a></li>
+                                        <li><a href="/H-index">H</a></li>
+                                        <li><a href="/I-index">I</a></li>
+                                        <li><a href="/J-index">J</a></li>
+                                        <li><a href="/K-index">K</a></li>
+                                        <li><a href="/L-index">L</a></li>
+                                        <li><a href="/M-index">M</a></li>
+                                        <li><a href="/N-index">N</a></li>
+                                        <li><a href="/O-index">O</a></li>
+                                        <li><a href="/P-index">P</a></li>
+                                        <li><a href="/Q-index">Q</a></li>
+                                        <li><a href="/R-index">R</a></li>
+                                        <li><a href="/S-index">S</a></li>
+                                        <li class="active"><a href="/T-index">T</a></li>
+                                        <li><a href="/U-index">U</a></li>
+                                        <li><a href="/V-index">V</a></li>
+                                        <li><a href="W-index">W</a></li>
+                                        <li><a href="/X-index">X</a></li>
+                                        <li><a href="/Y-index">Y</a></li>
+                                        <li><a href="/Z-index">Z</a></li>
                                                                         </ul>
                             </div>
             </div>

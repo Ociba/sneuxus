@@ -176,7 +176,7 @@
                             <a href="/members" rel="v:url" property="v:title">Members</a>
                         </li>
                                                                                 <li typeof="v:Breadcrumb">
-                            <a href="../index106a.html?group=8" rel="v:url" property="v:title">Registered</a>
+                            <a href="/S-index106" rel="v:url" property="v:title">Registered</a>
                         </li>
                                                                                 <li class="active">S</li>
                                                 </ol>
@@ -311,9 +311,9 @@
                                     <div class="content__body">
                                         <ul class="nav nav-tabs m-b">
     <li><span>Sort by</span></li>
-    <li><a href="index713c.html?group=all">All</a></li>
+    <li><a href="S-index713">All</a></li>
 
-                        <li class="active"><a href="index106a.html?group=8" rel="nofollow">Registered</a></li>
+                        <li class="active"><a href="/S-index106" rel="nofollow">Registered</a></li>
             </ul>
 
 <div class="tab-content">
