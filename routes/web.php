@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\MembersController;
+use App\Http\Controllers\BlogController;
 
 /*
 |--------------------------------------------------------------------------
@@ -103,6 +104,9 @@ Route::get('/W-index106', [MembersController::Class, 'viewIndex106W']);
 Route::get('/X-index106', [MembersController::Class, 'viewIndex106X']);
 Route::get('/Y-index106', [MembersController::Class, 'viewIndex106Y']);
 Route::get('/Z-index106', [MembersController::Class, 'viewIndex106Z']);
+
+Route::get('/blog',[BlogController::Class, 'getBlog']);
+Route::get('/add-blog-entry',[BlogController::Class, 'addBlogEntry']);
 
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
     return view('dashboard');

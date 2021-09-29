@@ -6,7 +6,7 @@
 
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-        <title>Members [O]  :: Powered by Subrion 4.2</title>
+        <title>401 :: Powered by Subrion 4.2</title>
         <meta name="description" content="">
         <meta name="keywords" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -16,7 +16,6 @@
         <meta name="revisit-after" content="1 day">
         <base >
 
-        
 
         <link rel="shortcut icon" href="{{ asset('front/favicon.ico')}}">
 
@@ -27,7 +26,7 @@
     
 
 
-    <meta property="og:title" content="Members [B] ">
+    <meta property="og:title" content="Error 401">
     <meta property="og:url" content="index.html">
     <meta property="og:description" content="">
 
@@ -42,7 +41,7 @@
 
             </head>
 
-    <body class="page-members">
+    <body class="page-error">
         <div class="inventory">
             <div class="container">
                                     <ul class="nav-inventory nav-inventory-social pull-left hidden-xs">
@@ -128,7 +127,7 @@
             
                 
                                     <li class="m_members
-                                                 active                                                                        ">
+                                                                                                                        ">
 
                         <a href="/members"
                                                                                                             >
@@ -140,7 +139,7 @@
             
                 
                                     <li class="m_blog
-                                                                                                                        ">
+                                                 active                                                                        ">
 
                         <a href="/blog"
                                                                                                             >
@@ -172,13 +171,7 @@
                                                             <li typeof="v:Breadcrumb">
                             <a href="/" rel="v:url" property="v:title">Home</a>
                         </li>
-                                                                                <li typeof="v:Breadcrumb">
-                            <a href="/members" rel="v:url" property="v:title">Members</a>
-                        </li>
-                                                                                <li typeof="v:Breadcrumb">
-                            <a href="/O-index106" rel="v:url" property="v:title">Registered</a>
-                        </li>
-                                                                                <li class="active">O</li>
+                                                                                <li class="active">Blog</li>
                                                 </ol>
 
                     </div>
@@ -189,177 +182,65 @@
             <div class="content">
                 <div class="container">
                                             <div class="row">
-                            <div class="col-md-3 aside">
+                            <div class="col-md-0 aside">
                                 
-    <!--__b_-->
-    <div id="block_filters"
-         class="box box--border collapsible" >
-                <h4 id="caption_filters" class="box__caption">Refine Search
-                    </h4>
-        <div id="content_filters" class="box__content">
-
-<!--__b_c_-->
-
-            <form class="ia-form ia-form-filters" id="js-item-filters-form" data-item="member" action="https://instantcashers.com/search/member.json">
-                    <button class="ia-form-filters__apply js-cmd-apply-param" type="submit">apply</button>
-        
-        
-
-                                                            <div class="form-group">
-                <label>Username</label>
-                                                            <input class="form-control" type="text" name="username">
-
-                                </div>
-                                                            <div class="form-group">
-                <label>Full Name</label>
-                                                            <input class="form-control" type="text" name="fullname">
-
-                                </div>
-                                                            <div class="form-group">
-                <label>Avatar</label>
-                                                            <input type="checkbox" name="avatar" value="1">
-
-                                </div>
-        
-        
-
-            </form>
-    
-<link rel="stylesheet" href="#">
-
-    
-<!--__e_c_-->
-
-        </div>
-
-            </div>
-<!--__e_-->
-    <!--__b_-->
-    <div id="block_new_blog_posts"
-         class="box " >
-                <h4 id="caption_new_blog_posts" class="box__caption">New blog posts
-                    </h4>
-        <div id="content_new_blog_posts" class="box__content">
-
-<!--__b_c_-->
-
-            <div class="alert alert-info">No blogposts done yet. Be the first to post here.</div>
-
-    
-<!--__e_c_-->
-
-        </div>
-
-            </div>
-<!--__e_-->
-    <!--__b_-->
-    <div id="block_blogs_archive"
-         class="box " >
-                <h4 id="caption_blogs_archive" class="box__caption">Blogs Archive
-                    </h4>
-        <div id="content_blogs_archive" class="box__content">
-
-<!--__b_c_-->
-
-                    <div class="alert alert-info">No blogposts done yet. Be the first to post here.</div>
-    
-    
-<!--__e_c_-->
-
-        </div>
-
-            </div>
-<!--__e_-->
-    <!--__b_-->
-    <div id="block_html_block1"
-         class="box box--border collapsible" >
-                <h4 id="caption_html_block1" class="box__caption">HTML block #1
-                    </h4>
-        <div id="content_html_block1" class="box__content">
-
-<!--__b_c_-->
-
-        <p>You can change this block in admin panel. Remember, if you change template, this block will be lost. We advise you to clone this block.</p>
-<p>Ne lorem percipit efficiantur mei, ius ut simul vidisse. An vel probatus explicari appellantur. Has et comprehensam interpretaris, quo no inimicus maluisset temporibus. Ea mea quod.</p>
-    
-<!--__e_c_-->
-
-        </div>
-
-            </div>
-<!--__e_-->
-
-
                             </div>
-                            <div class="col-md-9">
+                            <div class="col-md-12">
                                 <div class="content__wrap">
 
                                     
 
                                     <div class="content__header">
-                                        <h1>Members [O] </h1>
+                                        <h1>Error 401</h1>
                                         <ul class="content__actions">
                                                                                     </ul>
                                     </div>
 
                                     
-                                        <div id="notification" class="alert alert-info" style="display: none;"></div>
+                                        <div class="alert alert-error">
+        <ul class="list-unstyled">
+                            <li>You are not authorized to access this page.</li>
+                    </ul>
+    </div>
 
 
                                     
 
                                     <div class="content__body">
-                                        <ul class="nav nav-tabs m-b">
-    <li><span>Sort by</span></li>
-    <li><a href="/O-index713">All</a></li>
+                                        <div class="ia-form-system">
+    <form action="https://instantcashers.com/login/" method="post">
+        <input type="hidden" name="__st" value="2tFSjwlCyG48xAWfD2pGeewvA0YwLR9Qu0iZ5iGp">
 
-                        <li class="active"><a href="/O-index106" rel="nofollow">Registered</a></li>
-            </ul>
+        <div class="form-group">
+            <input class="form-control input-lg" type="text" name="username" value="" placeholder="Username or E-mail">
+        </div>
 
-<div class="tab-content">
-    <div id="tab-all" class="tab-pane">
+        <div class="form-group">
+            <input class="form-control input-lg" type="password" name="password" placeholder="Password">
+        </div>
+
+        <div class="form-group">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="checkbox-inline">
+                        <label><input type="checkbox" name="remember"> Remember me</label>
+                    </div>
+                </div>
+                <div class="col-md-6 text-right">
+                    <a href="/forgot">Forgot password?</a>
+                </div>
             </div>
+        </div>
 
-                        <div id="tab-usergroups" class="tab-pane active">
-                                    <ul class="nav nav-pills nav-pills-sm m-b">
-                                    <li><a href="/0-9-index">0-9</a></li>
-                                    <li><a href="/A-index">A</a></li>
-                                    <li><a href="/B-index">B</a></li>
-                                    <li><a href="/C-index">C</a></li>
-                                    <li><a href="/D-index">D</a></li>
-                                    <li><a href="/E-index">E</a></li>
-                                    <li><a href="/F-index">F</a></li>
-                                    <li><a href="/G-index">G</a></li>
-                                    <li><a href="/H-index">H</a></li>
-                                    <li><a href="/I-index">I</a></li>
-                                    <li><a href="/J-index">J</a></li>
-                                    <li><a href="/K-index">K</a></li>
-                                    <li><a href="/L-index">L</a></li>
-                                    <li><a href="/M-index">M</a></li>
-                                    <li><a href="/N-index">N</a></li>
-                                    <li class="active"><a href="/O-index">O</a></li>
-                                    <li><a href="/P-index">P</a></li>
-                                    <li><a href="/Q-index">Q</a></li>
-                                    <li><a href="/R-index">R</a></li>
-                                    <li><a href="/S-index">S</a></li>
-                                    <li><a href="/T-index">T</a></li>
-                                    <li><a href="/U-index">U</a></li>
-                                    <li><a href="/V-index">V</a></li>
-                                    <li><a href="W-index">W</a></li>
-                                    <li><a href="/X-index">X</a></li>
-                                    <li><a href="/Y-index">Y</a></li>
-                                    <li><a href="/Z-index">Z</a></li>
-                                                </ul>
-                            </div>
-            </div>
+        <div class="form-group">
+            <button class="btn btn-success btn-block btn-lg" type="submit" name="login">Log in</button>
+        </div>
 
-<div id="js-search-results-container">
-    <div class="ia-items">
-                    <div class="alert alert-info">No members found that match specified params.</div>
-            </div>
+        <p class="text-center  m-b-0">
+            <a href="/register" rel="nofollow">Registration</a>
+        </p>
+            </form>
 </div>
-
-
 
                                     </div>
 
@@ -532,9 +413,9 @@ that allows you to build websites for any purpose. Yes, from blog to corporate m
             
                 
                                     <li class="m_blog
-                                                                                                                        ">
+                                                 active                                                                        ">
 
-                        <a href="../../blog/index.html"
+                        <a href="../index.html"
                                                                                                             >
                             Blog
                                                     </a>
@@ -560,7 +441,7 @@ that allows you to build websites for any purpose. Yes, from blog to corporate m
         <!-- SYSTEM STUFF -->
 
                     <div style="display: none;">
-                <img src="../../cron/index2b44.html?115" width="1" height="1" alt="">
+                <img src="../../cron/index18d8.html?400" width="1" height="1" alt="">
             </div>
         
         
@@ -574,9 +455,6 @@ that allows you to build websites for any purpose. Yes, from blog to corporate m
 	<script src="https://instantcashers.com/tmp/cache/intelli.lang.en.js?fm=1632725863"></script>
 	<script src="{{ asset('front/js/bootstrap/js/bootstrap.min7aa6.js?fm=1528967094')}}"></script>
 	<script src="{{ asset('front/modules/fancybox/js/jquery.fancybox.pack7aa6.js?fm=1528967094')}}"></script>
-	<script src="{{ asset('front/js/jquery/plugins/select2/select2.min7aa6.js?fm=1528967094')}}"></script>
-	<script src="{{ asset('front/js/intelli/intelli.search7aa6.js?fm=1528967094')}}"></script>
-	<script src="{{ asset('front/js/frontend/search7aa6.js?fm=1528967094')}}"></script>
 	<script>
 $(function()
 {
@@ -603,7 +481,7 @@ $(function()
 });
 </script>
 	<script>
-intelli.pageName = 'members';
+intelli.pageName = 'error';
             intelli.securityToken = '2tFSjwlCyG48xAWfD2pGeewvA0YwLR9Qu0iZ5iGp';
             intelli.config.url = '/';
 </script>
@@ -611,6 +489,4 @@ intelli.pageName = 'members';
 
         
     </body>
-
-<!-- Mirrored from instantcashers.com/members/B/?group=8 by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Sep 2021 12:44:19 GMT -->
 </html>

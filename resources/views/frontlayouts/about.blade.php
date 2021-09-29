@@ -25,7 +25,7 @@
     </div>
 </div>
 <div class="text-center m-t-lg">
-    <a class="btn btn-primary text-uppercase" href="https://instantcashers.com/panel/">Go to admin dashboard</a>
+    <a class="btn btn-primary text-uppercase" href="/login/">Go to admin dashboard</a>
 </div>
     
 <!--__e_c_-->

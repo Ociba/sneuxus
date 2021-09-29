@@ -74,7 +74,6 @@
 
             </div>
         </div>
-
         <nav class="navbar navbar-default navbar-sticky">
             <div class="container">
                 <div class="navbar-header">
@@ -101,8 +100,8 @@
                         </form>
                                         
                 <ul class="nav navbar-nav navbar-right">
-            <li><a href="../../login/index.html">Log in</a></li>
-            <li><a href="../../registration/index.html">Sign up</a></li>
+            <li><a href="/login">Log in</a></li>
+            <li><a href="/register">Sign up</a></li>
         </ul>
     
 
@@ -141,7 +140,7 @@
                                     <li class="m_blog
                                                                                                                         ">
 
-                        <a href="../../blog/index.html"
+                        <a href="/blog"
                                                                                                             >
                             Blog
                                                     </a>
@@ -321,7 +320,7 @@
 
                         <div id="tab-usergroups" class="tab-pane active">
                                     <ul class="nav nav-pills nav-pills-sm m-b">
-                                        <li><a href="/0-9">0-9</a></li>
+                                        <li><a href="/0-9-index">0-9</a></li>
                                         <li><a href="/A-index">A</a></li>
                                         <li><a href="/B-index">B</a></li>
                                         <li><a href="/C-index">C</a></li>

@@ -98,8 +98,8 @@
                         </form>
                                         
                 <ul class="nav navbar-nav navbar-right">
-            <li><a href="../login/index.html">Log in</a></li>
-            <li><a href="../registration/index.html">Sign up</a></li>
+            <li><a href="/login">Log in</a></li>
+            <li><a href="/register">Sign up</a></li>
         </ul>
     
 
@@ -138,7 +138,7 @@
                                     <li class="m_blog
                                                                                                                         ">
 
-                        <a href="../blog/index.html"
+                        <a href="/blog"
                                                                                                             >
                             Blog
                                                     </a>
