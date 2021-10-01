@@ -1,20 +1,22 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+  <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
         
 
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-        <title>Cccgvv ggg :: Powered by Subrion 4.2</title>
+        <title>Privacy Policy :: Powered by Subrion 4.2</title>
         <meta name="description" content="">
         <meta name="keywords" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="generator" content="Subrion CMS - Open Source Content Management System">
-        <meta name="robots" content="">
-        <meta name="robots" content="">
+        <meta name="robots" content="index">
+        <meta name="robots" content="follow">
         <meta name="revisit-after" content="1 day">
         <base >
+
+        
 
         <link rel="shortcut icon" href="{{ asset('front/favicon.ico')}}">
 
@@ -25,10 +27,10 @@
     
 
 
-            <meta property="og:title" content="Cccgvv ggg">
-                    <meta property="og:url" content="#">
-                    <meta property="og:image" content="">
-                                
+    <meta property="og:title" content="Privacy Policy">
+    <meta property="og:url" content="index.html">
+    <meta property="og:description" content="">
+
 
 
         
@@ -40,7 +42,7 @@
 
             </head>
 
-    <body class="page-view_member">
+    <body class="page-policy">
         <div class="inventory">
             <div class="container">
                                     <ul class="nav-inventory nav-inventory-social pull-left hidden-xs">
@@ -100,8 +102,8 @@
                         </form>
                                         
                 <ul class="nav navbar-nav navbar-right">
-            <li><a href="../login/index.html">Log in</a></li>
-            <li><a href="../registration/index.html">Sign up</a></li>
+            <li><a href="/login">Log in</a></li>
+            <li><a href="/register">Sign up</a></li>
         </ul>
     
 
@@ -140,7 +142,7 @@
                                     <li class="m_blog
                                                                                                                         ">
 
-                        <a href="../blog/index.html"
+                        <a href="/blog"
                                                                                                             >
                             Blog
                                                     </a>
@@ -170,13 +172,7 @@
                                                             <li typeof="v:Breadcrumb">
                             <a href="/" rel="v:url" property="v:title">Home</a>
                         </li>
-                                                                                <li typeof="v:Breadcrumb">
-                            <a href="/members" rel="v:url" property="v:title">Members</a>
-                        </li>
-                                                                                <li typeof="v:Breadcrumb">
-                            <a href="../members/R/index.html" rel="v:url" property="v:title">R</a>
-                        </li>
-                                                                                <li class="active">Member Details</li>
+                                                                                <li class="active">Privacy Policy</li>
                                                 </ol>
 
                     </div>
@@ -253,24 +249,8 @@
                                     
 
                                     <div class="content__header">
-                                        <h1>Cccgvv ggg</h1>
+                                        <h1>Privacy Policy</h1>
                                         <ul class="content__actions">
-                                                                                            <li>
-                                                                                                            <a data-toggle="tooltip" title="Print Page" href="#" class="js-print-page" >
-                                                            <span class="fa fa-action-print"></span>
-                                                        </a>
-                                                                                                    </li>
-                                                                                            <li>
-                                                                                                            <a href="#" class="js-favorites "
-    data-item="member"
-    data-id="2"
-    data-action="add"
-    data-guests="1"
-    data-text-add="<span class='fa fa-heart-o'></span>"
-    data-text-delete="<span class='fa fa-heart'></span>"
-    rel="nofollow" title="Add to favorites">
-    <span class='fa fa-heart-o'></span></a>
-                                                                                                    </li>
                                                                                     </ul>
                                     </div>
 
@@ -281,58 +261,8 @@
                                     
 
                                     <div class="content__body">
-                                        <div class="ia-item ia-item--view">
-    <div class="ia-item__image">
-        <img src="http://www.gravatar.com/avatar/3dc43afd72efb7c1a31a9d5633b3d964?s=200&amp;d=mm&amp;r=g" alt="Cccgvv ggg" title="Cccgvv ggg">
-
-            </div>
-    <div class="ia-item__content">
-        <div class="ia-item__content__info">
-            <span class="fa fa-eye"></span> 0
-        </div>
-        <div class="ia-item__additional">
-                                                        </div>
-
-        <table class="table ia-item__table">
-            <tbody>
-                                                                <tr>
-                    <td>Member since</td>
-                    <td>27 September, 2021</td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
-</div>
-
-
-
-
-
-
-    <div class="tabbable">
-        <ul class="nav nav-tabs">
-                                                                        
-                                                                            
-                        <li class="active"><a data-toggle="tab" href="#tab-common"><span>Common</span></a></li>
-                                                
-                                                </ul>
-
-        <div class="tab-content ia-form">
-                                                <div id="tab-common" class="tab-pane active">
-                            
-
-                                                                
-                        
-                
-                        
-                            
-                    </div>
-                            
-                                                </div>
-    </div>
-
-
-
+                                            
+    <p>Page 'Privacy Policy' content goes here. You can edit it in Admin Panel ->  Content -> Pages.</p>
 
                                     </div>
 
@@ -443,89 +373,89 @@ that allows you to build websites for any purpose. Yes, from blog to corporate m
             </div>
                 
         <footer class="footer">
-        <div class="container">
+            <div class="container">
                 
 
-                <ul class="nav-footer nav-footer-social">
-    <li><a href="#" class="twitter"><span class="fa fa-twitter"></span></a></li>                        <li><a href="#" class="facebook"><span class="fa fa-facebook"></span></a></li>                        <li><a href="#" class="google-plus"><span class="fa fa-google-plus"></span></a></li>                        <li><a href="#" class="linkedin"><span class="fa fa-linkedin"></span></a></li>                    </ul>
+                                    <ul class="nav-footer nav-footer-social">
+                        <li><a href="#" class="twitter"><span class="fa fa-twitter"></span></a></li>                        <li><a href="#" class="facebook"><span class="fa fa-facebook"></span></a></li>                        <li><a href="#" class="google-plus"><span class="fa fa-google-plus"></span></a></li>                        <li><a href="#" class="linkedin"><span class="fa fa-linkedin"></span></a></li>                    </ul>
+                
+                
+        
+
+            <ul class="nav-footer ">
+
+            
+                
+                                    <li class="m_about
+                                                                                                                        ">
+
+                        <a href="/about"
+                                                                                                            >
+                            About Us
+                                                    </a>
+                                            </li>
+                
+                
+            
+                
+                                    <li class="m_policy
+                                                 active                                                                        ">
+
+                        <a href="/policy"
+                                                                                                            >
+                            Privacy Policy
+                                                    </a>
+                                            </li>
+                
+                
+            
+                
+                                    <li class="m_terms
+                                                                                                                        ">
+
+                        <a href="/terms"
+                                                                                                            >
+                            Terms of Use
+                                                    </a>
+                                            </li>
+                
+                
+            
+                
+                                    <li class="m_help
+                                                                                                                        ">
+
+                        <a href="/help"
+                                                                                                            >
+                            Help
+                                                    </a>
+                                            </li>
+                
+                
+            
+                
+                                    <li class="m_blog
+                                                                                                                        ">
+
+                        <a href="/blog"
+                                                                                                            >
+                            Blog
+                                                    </a>
+                                            </li>
+                
+                
+            
+            <!-- MORE menu dropdown -->
+                    </ul>
+    
 
 
 
 
-<ul class="nav-footer ">
+                <p class="copyright">&copy; 2021 Powered by <a href="https://subrion.org/" title="Open Source CMS">Subrion CMS</a></p>
 
-
-
-                <li class="m_about
-                                                                                                    ">
-
-    <a href="/about"
-                                                                                        >
-        About Us
-                                </a>
-                        </li>
-
-
-
-
-                <li class="m_policy
-                                                                                                    ">
-
-    <a href="/policy"
-                                                                                        >
-        Privacy Policy
-                                </a>
-                        </li>
-
-
-
-
-                <li class="m_terms
-                             active                                                                        ">
-
-    <a href="/terms"
-                                                                                        >
-        Terms of Use
-                                </a>
-                        </li>
-
-
-
-
-                <li class="m_help
-                                                                                                    ">
-
-    <a href="/help"
-                                                                                        >
-        Help
-                                </a>
-                        </li>
-
-
-
-
-                <li class="m_blog
-                                                                                                    ">
-
-    <a href="/blog"
-                                                                                        >
-        Blog
-                                </a>
-                        </li>
-
-
-
-<!-- MORE menu dropdown -->
-</ul>
-
-
-
-
-
-<p class="copyright">&copy; {{ date('Y')}} Powered by <a href="#" title="Open Source CMS">Subrion CMS</a></p>
-
-
-</div>
+                
+            </div>
         </footer>
 
         <button class="back-to-top js-back-to-top"><span class="fa fa-angle-double-up"></span></button>
@@ -533,7 +463,7 @@ that allows you to build websites for any purpose. Yes, from blog to corporate m
         <!-- SYSTEM STUFF -->
 
                     <div style="display: none;">
-                <img src="../cron/index7e77.html?166" width="1" height="1" alt="">
+                <img src="../cron/index140f.html?159" width="1" height="1" alt="">
             </div>
         
         
@@ -573,9 +503,9 @@ $(function()
 });
 </script>
 	<script>
-intelli.pageName = 'view_member';
+intelli.pageName = 'policy';
             intelli.securityToken = '2tFSjwlCyG48xAWfD2pGeewvA0YwLR9Qu0iZ5iGp';
-            intelli.config.url = '../index.html';
+            intelli.config.url = '/';
 </script>
 	<script src="{{ asset('front/templates/kickstart/js/app7aa6.js?fm=1528967094')}}"></script>
 

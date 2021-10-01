@@ -484,7 +484,7 @@ that allows you to build websites for any purpose. Yes, from blog to corporate m
                                     <li class="m_about
                                                                                                                         ">
 
-                        <a href="../../about/index.html"
+                        <a href="/about"
                                                                                                             >
                             About Us
                                                     </a>
@@ -496,7 +496,7 @@ that allows you to build websites for any purpose. Yes, from blog to corporate m
                                     <li class="m_policy
                                                                                                                         ">
 
-                        <a href="../../policy/index.html"
+                        <a href="/policy"
                                                                                                             >
                             Privacy Policy
                                                     </a>
@@ -508,7 +508,7 @@ that allows you to build websites for any purpose. Yes, from blog to corporate m
                                     <li class="m_terms
                                                                                                                         ">
 
-                        <a href="../../terms/index.html"
+                        <a href="/terms"
                                                                                                             >
                             Terms of Use
                                                     </a>
@@ -520,7 +520,7 @@ that allows you to build websites for any purpose. Yes, from blog to corporate m
                                     <li class="m_help
                                                                                                                         ">
 
-                        <a href="../../help/index.html"
+                        <a href="/help"
                                                                                                             >
                             Help
                                                     </a>
@@ -532,7 +532,7 @@ that allows you to build websites for any purpose. Yes, from blog to corporate m
                                     <li class="m_blog
                                                                                                                         ">
 
-                        <a href="../../blog/index.html"
+                        <a href="/blog"
                                                                                                             >
                             Blog
                                                     </a>

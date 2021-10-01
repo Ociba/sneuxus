@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\MembersController;
 use App\Http\Controllers\BlogController;
+use App\Http\Controllers\FooterLinkController;
 
 /*
 |--------------------------------------------------------------------------
@@ -107,6 +108,11 @@ Route::get('/Z-index106', [MembersController::Class, 'viewIndex106Z']);
 
 Route::get('/blog',[BlogController::Class, 'getBlog']);
 Route::get('/add-blog-entry',[BlogController::Class, 'addBlogEntry']);
+
+Route::get('/about',[FooterLinkController::Class, 'getAbout']);
+Route::get('/policy',[FooterLinkController::Class, 'privacyPolicy']);
+Route::get('/help',[FooterLinkController::Class, 'getHelp']);
+Route::get('/terms',[FooterLinkController::Class, 'getTerms']);
 
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
     return view('dashboard');
